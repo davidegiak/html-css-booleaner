@@ -1,0 +1,33 @@
+/* DEFAULT SETTINGS */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/* HEADER */
+
+.head {
+    background-color: #1E90FF;
+    background-image: url(../img-booleaner/img/pattern.png);
+}
+
+#boolean {
+    margin-top: 5%;
+    margin-left: 1%;
+}
+
+h1 {
+    font-size: 4em;
+    margin-top: 2%;
+    margin-left: 1%;
+}
+
+.autore {
+    margin-left: 1%;
+    font-size: 1em;
+    color: lightgrey;
+}
+
+/* CORPO DELLA PAGINA */
+
