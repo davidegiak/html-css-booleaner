@@ -90,4 +90,22 @@ thead {
 /* FOOTER */
 h3 {
     color: gray;
+    margin-left: 0.7%;
+}
+
+.img1 {
+    margin-left: 0.7%;
+    background-image: url(../img-booleaner/img/monitor.jpg);
+    height: 200px;
+    width: 20%;
+    color: white;
+}
+
+.img2 {
+    background-image: url(../img-booleaner/img/graph.jpg);
+    margin-left: 0.7%;
+    height: 200px;
+    width: 20%;
+    color: white;
+    margin-top: 0.7%;
 }
