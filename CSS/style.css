@@ -19,13 +19,19 @@
 
 h1 {
     font-size: 4em;
-    margin-top: 2%;
-    margin-left: 1%;
+    margin-top: 1%;
+    margin-left: 0.7%;
 }
 
 .autore {
-    margin-left: 1%;
+    margin-left: 0.7%;
     font-size: 1em;
+    color: grey;
+}
+
+.autore2 {
+    margin-left: 0.7%;
+    font-size: 0.7em;
     color: grey;
 }
 
@@ -33,12 +39,55 @@ h1 {
     color: #006ee6 ;
 }
 
+figure {
+    font-size: 0.7em;
+    margin-left: 0.7%;
+}
+
+.tim {
+    margin-top: 1.5%;
+
+}
+
 /* CORPO DELLA PAGINA */
 
 main {
-    margin-left: 1%;
+    margin-left: 0.7%;
 }
 
-figure {
-    font-size: 0.7em;
+.articolo {
+    margin-top: 1%;
+    font-size: 1em;
+}
+
+/* LISTA DISORDINATA */
+
+ul {
+    margin-top: 1%;
+    margin-left: 0.7%;
+    font-size: 1em;
+}
+
+/* TAVOLA */
+
+table {
+    margin-top: 1%;
+}
+
+thead {
+    background-color: #1E90FF;
+    text-align: left;
+}
+
+.terzotitolo {
+    width: 50%;
+}
+
+.celeste {
+    background-color: #9ceeff;
+}
+
+/* FOOTER */
+h3 {
+    color: gray;
 }
