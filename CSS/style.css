@@ -72,6 +72,7 @@ ul {
 
 table {
     margin-top: 1%;
+    border-spacing: 0;
 }
 
 thead {
